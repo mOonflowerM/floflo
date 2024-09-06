@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://irenamilanovic.github.io/bloombites/index.html</loc>
+<lastmod>2024-09-06</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://irenamilanovic.github.io/bloombites/contact.html</loc>
+<lastmod>2024-09-06</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://irenamilanovic.github.io/bloombites/gallery.html</loc>
+<lastmod>2024-09-06</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://irenamilanovic.github.io/bloombites/author.html/</loc>
+<lastmod>2024-09-06</lastmod>
+<changefreq>never</changefreq>
+<priority>0.1</priority>
+</url>
+</urlset>
